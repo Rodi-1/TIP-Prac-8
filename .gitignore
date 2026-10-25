@@ -1,0 +1,15 @@
+/bin/
+.env
+*.log
+# Local reports and generated results
+*.docx
+*.pdf
+/screenshots/
+/results/
+/testing.md
+/coverage.html
+/coverage.out
+/bin/
+*.exe
+/.keys/
+.env
